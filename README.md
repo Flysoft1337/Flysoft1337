@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/97880172?v=4" width="110" style="border-radius:50%" />
-
 # Flysoft
 
 **全栈开发者 · 开源探索者 · 独立开发者**
