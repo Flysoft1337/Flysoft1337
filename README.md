@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-opal-zeta-73.vercel.app/api?username=Flysoft1337&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-opal-zeta-73.vercel.app/api?username=Flysoft1337&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&show=prs_merged,prs_merged_percentage&count_private=true)
 
 ![Top Langs](https://github-readme-stats-opal-zeta-73.vercel.app/api/top-langs/?username=Flysoft1337&layout=compact&theme=tokyonight&hide_border=true&locale=cn&count_private=true)
 
